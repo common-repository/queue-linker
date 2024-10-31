@@ -1,0 +1,12 @@
+.widget.queue-widget .widget-top{
+	background: #bbb;
+	color: #792158 !important;
+}
+
+.widget.queue-widget .widget-top h3 {
+	color: #fff !important;
+	background-image: url(../../img/icon32.png);
+	background-position: 5px 6px;
+	background-repeat: no-repeat;
+	padding-left: 43px;
+}
